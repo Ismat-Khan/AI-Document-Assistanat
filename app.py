@@ -352,7 +352,6 @@ def load_drive_files(url):
                 url=url,
                 output=output_dir,
                 quiet=True,
-                fuzzy=True,
                 use_cookies=False,
             )
 
